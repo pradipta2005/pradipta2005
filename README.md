@@ -39,7 +39,7 @@
 <p align="center">
   <a href="https://pradipta2005.github.io/My_Portfolio"><img src="https://img.shields.io/badge/Explore%20Portfolio-FF6F00?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   &nbsp;
-  <a href="https://github.com/pradipta2005/pradipta2005"><img src="https://img.shields.io/badge/See%20My%20Projects-09B4F8?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/pradipta2005?tab=repositories"><img src="https://img.shields.io/badge/See%20My%20Projects-09B4F8?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
