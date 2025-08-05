@@ -54,9 +54,7 @@
 > - Run ML models like Linear Regression & Random Forest
 > - **No coding required!**
 
-<p align="center">
-  <img src="https://github.com/pradipta2005/Plotiva/raw/main/assets/plotiva-screenshot.png" width="500" alt="Plotiva Screenshot">
-</p>
+
 
 ---
 
@@ -75,13 +73,7 @@
 >
 > “Turning numbers into narratives, and datasets into decisions.”
 
-> “Data is the canvas, code is the brush—insight is the masterpiece.”
->
-> “No-code isn’t just about simplicity; it’s about unleashing creativity at the speed of thought.”
->
-> “The best insights are found where curiosity meets computation.”
->
-> “Visualizations are the bridges between raw data and real impact.”
+
 
 ---
 
