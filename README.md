@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=09B4F8&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Aspiring+Data+Scientist;No-Code+Solutions+Builder;Machine+Learning+Enthusiast;Turning+Data+into+Stories" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=09B4F8&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Data+Scientist;No-Code+Solutions+Builder;Machine+Learning+Enthusiast;Turning+Data+into+Stories" alt="Typing Animation"/>
 </div>
 
 <br>
@@ -205,4 +205,5 @@
 <div align="center">
   <h3>💫 "Exploring the universe, one dataset at a time" 💫</h3>
   <p><em>Thanks for visiting! ⭐ Star some repositories if you find them interesting!</em></p>
+</div>sitories if you find them interesting!</em></p>
 </div>
