@@ -65,9 +65,7 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pradipta2005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=09B4F8&text_color=c9d1d9"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=pradipta2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=09B4F8&ring=09B4F8&fire=09B4F8&currStreakLabel=09B4F8" alt="GitHub Streak"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradipta2005&theme=tokyo-night&bg_color=0D1117&color=09B4F8&line=09B4F8&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
@@ -95,36 +93,21 @@
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🎨 Plotiva</h3>
-        <p align="center">
-          <a href="https://github.com/pradipta2005/Plotiva">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=pradipta2005&repo=Plotiva&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=09B4F8&icon_color=09B4F8&text_color=c9d1d9"/>
-          </a>
-        </p>
-        <p align="center">
-          <strong>No-Code Data Visualization Platform</strong><br>
-          🔹 Drag & Drop Dataset Upload<br>
-          🔹 Interactive Chart Generation<br>
-          🔹 Smart Filtering System<br>
-          🔹 Built-in ML Models<br>
-          🔹 Zero Coding Required
-        </p>
-        <p align="center">
-          <a href="https://github.com/pradipta2005/Plotiva">
-            <img src="https://img.shields.io/badge/View%20Project-09B4F8?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/pradipta2005/pradipta2005/main/assets/data-visualization.gif" width="400" alt="Data Visualization Demo"/>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <h3>🎨 Plotiva</h3>
+  </p>
+  <p align="center">
+    <strong>No-Code Data Visualization Platform</strong><br>
+    🔹 Drag & Drop Dataset Upload<br>
+    🔹 Interactive Chart Generation<br>
+    🔹 Smart Filtering System<br>
+    🔹 Built-in ML Models<br>
+    🔹 Zero Coding Required
+  </p>
+  <p align="center">
+    <a href="https://github.com/pradipta2005/Plotiva">
+      <img src="https://img.shields.io/badge/View%20Project-09B4F8?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
 </div>
 
 <br>
@@ -205,5 +188,4 @@
 <div align="center">
   <h3>💫 "Exploring the universe, one dataset at a time" 💫</h3>
   <p><em>Thanks for visiting! ⭐ Star some repositories if you find them interesting!</em></p>
-</div>sitories if you find them interesting!</em></p>
 </div>
