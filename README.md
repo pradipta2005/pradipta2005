@@ -171,7 +171,7 @@
   <a href="https://github.com/pradipta2005">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
   </a>
-  <a href="https://pradipta2005.github.io/My_Portfolio">
+  <a href="https://pk-golden-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6F00"/>
   </a>
   <a href="mailto:pradiptakhan2005@gmail.com">
