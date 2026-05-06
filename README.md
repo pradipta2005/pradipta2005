@@ -78,7 +78,7 @@
   <p><b>From intuitive visualizations to intelligent ML models,<br>
   I transform complex datasets into actionable business insights.</b></p>
   
-  <a href="https://pradipta2005.github.io/My_Portfolio">
+  <a href="https://pradipta2005.github.io/Mr.-PK/">
     <img src="https://img.shields.io/badge/🌐%20Explore%20Portfolio-FF6F00?style=for-the-badge&logoColor=white"/>
   </a>
   <a href="https://github.com/pradipta2005?tab=repositories">
