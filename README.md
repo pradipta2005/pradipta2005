@@ -17,7 +17,7 @@
 
 <a href="https://pradipta2005.github.io/Mr.-PK/"><img src="https://img.shields.io/badge/Portfolio-4493F8?style=flat-square&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/pradipta-khan-63a796253"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="mailto:pradiptakhan2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;&nbsp;
+<a href="mailto:pradiptakhan005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;&nbsp;
 <a href="https://github.com/pradipta2005"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;
 <img src="https://komarev.com/ghpvc/?username=pradipta2005&style=flat-square&color=4493F8&label=profile+views"/>
 
