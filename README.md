@@ -1,191 +1,236 @@
+<!--
+  Pradipta Khan — GitHub Profile README
+  Honest. Grounded. Built for Passion.
+-->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pradipta%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pradipta%20Khan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=09B4F8&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Data+Scientist;No-Code+Solutions+Builder;Machine+Learning+Enthusiast;Turning+Data+into+Stories" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=4500&pause=1200&color=4493F8&center=true&vCenter=true&width=560&lines=Python+%C2%B7+SQL+%C2%B7+Pandas+%C2%B7+Power+BI+%C2%B7+Excel;Mid-level+Data+Analyst+%E2%80%94+open+to+roles;I+clean+data%2C+find+patterns%2C+and+tell+the+story." />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <h2>💫 About Me</h2>
-  <p><em>"Transforming complex datasets into compelling narratives that drive intelligent business decisions"</em></p>
+
+<a href="https://pradipta2005.github.io/Mr.-PK/"><img src="https://img.shields.io/badge/Portfolio-4493F8?style=flat-square&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/pradipta-khan-63a796253"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mailto:pradiptakhan2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;&nbsp;
+<a href="https://github.com/pradipta2005"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=pradipta2005&style=flat-square&color=4493F8&label=profile+views"/>
+
 </div>
+
+<br/>
+
+---
+
+<br/>
+
+## About
+
+I'm a data analyst with mid-level hands-on experience — not a beginner, not yet a senior.
+
+I can take a messy dataset, clean it, analyse it, and build a dashboard or report that actually makes sense to someone who doesn't know the data. My core tools are Python, SQL, Pandas, Power BI, and Excel. I use them daily — not just in tutorials.
+
+I've built 8 projects independently. Some are analytics work, some are Streamlit apps, one is a cloud ETL pipeline on AWS. None of them are perfect, but all of them taught me something real.
+
+I'm looking for a **Data Analyst** role — entry to mid-level — where I can contribute from day one and grow.
+
+<br/>
+
+---
+
+<br/>
+
+## Core Skills
+
+These are the tools I actually know. Depth is honest.
+
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pradipta2005&style=for-the-badge&color=09B4F8" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/pradipta2005?style=for-the-badge&color=09B4F8" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/pradipta2005?style=for-the-badge&color=09B4F8" alt="Stars"/>
+
+| Tool | Comfortable With |
+|:---|:---|
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> | EDA, data cleaning, scripting, Pandas, Matplotlib, basic automation |
+| <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> | SELECT, JOIN, GROUP BY, subqueries, window functions (basic) |
+| <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> | groupby, merge, pivot, reshape, cleaning pipelines |
+| <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> | DAX basics, interactive dashboards, slicers, drill-through |
+| <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/> | Pivot tables, VLOOKUP/INDEX-MATCH, charts, basic macros |
+| <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> | Multi-page apps, widgets, file upload, session state |
+| <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/> | Interactive bar, scatter, heatmap, line charts |
+| <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> | Array ops, statistical functions, used alongside Pandas |
+| <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> | Basic classification/regression, model eval — not deep ML |
+| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> | Commit, push, branch, pull requests |
+
 </div>
 
-<br>
+<br/>
+
+**Also worked with** (tutorial-to-real level):
 
 <div align="center">
-  <h2>🛠️ Tech Arsenal</h2>
+
+<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/AWS%20Glue-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/>&nbsp;
+<img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="200px">
-      <h3>💻 Programming</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    </td>
-    <td align="center" width="200px">
-      <h3>📊 Data Science</h3>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-    </td>
-    <td align="center" width="200px">
-      <h3>📈 Visualization</h3>
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Seaborn-43B02A?style=for-the-badge"/><br>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-    </td>
-    <td align="center" width="200px">
-      <h3>🔧 Tools</h3>
-      <img src="https://img.shields.io/badge/Jupyter-FAF400?style=for-the-badge&logo=jupyter&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-    </td>
-  </tr>
+<br/>
+
+---
+
+<br/>
+
+## Projects
+
+8 independent projects. All built to learn by doing.
+
+<br/>
+
+| # | Project | What I built | Stack |
+|:---:|:---|:---|:---|
+| 01 | [**PLOTIVA 2.0**](https://github.com/pradipta2005/PLOTIVA-2.O) | Upload any CSV → auto-generates interactive charts. No code needed. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
+| 02 | [**Mr. PK**](https://github.com/pradipta2005/Mr.-PK) | LLM chatbot that holds conversation context across turns | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| 03 | [**AWS ETL Pipeline**](https://github.com/pradipta2005/AWS-ETL-Pipeline) | End-to-end pipeline: S3 → Glue → Redshift. First real cloud project. | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| 04 | [**Customer Behaviour Analysis**](https://github.com/pradipta2005/Customer-Behavoiur-Analysis) | Full EDA on purchase data — segmentation, patterns, visual report | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square&logo=python&logoColor=white) |
+| 05 | [**Restaurant Order Analysis**](https://github.com/pradipta2005/Restaurant-Order-Analysis) | SQL queries + Python viz — menu performance, peak hours, revenue | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) |
+| 06 | [**LEGO Set Explorer**](https://github.com/pradipta2005/LEGO-Set-Explorer) | Interactive filter app over 18,000+ LEGO sets | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| 07 | [**AI Career Builder**](https://github.com/pradipta2005/AI-Career-Builder-) | Parses resumes, scores them against a JD, gives improvement feedback | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| 08 | [**PLOTIVA v1**](https://github.com/pradipta2005/Plotiva) | The first version — where the whole platform idea started | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
+
+<br/>
+
+---
+
+<br/>
+
+## Certifications
+
+<div align="center">
+
+<table border="0" cellpadding="14" cellspacing="6">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/TATA-0072bc?style=for-the-badge&logoColor=white" alt="TATA"/>
+<br/><sub><b>Business Intelligence</b></sub>
+<br/><sub>Forage Virtual Simulation</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Deloitte-86BC25?style=for-the-badge&logoColor=white" alt="Deloitte"/>
+<br/><sub><b>Data Analytics · Forensic</b></sub>
+<br/><sub>Tableau & Excel Dashboards</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/IIT%20·%20NPTEL-FF6B00?style=for-the-badge&logoColor=white" alt="IIT NPTEL"/>
+<br/><sub><b>Programming & Writing</b></sub>
+<br/><sub>Problem Solving in C</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/NASA-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA"/>
+<br/><sub><b>Galactic Problem Solver</b></sub>
+<br/><sub>Space Apps Challenge 2024</sub>
+</td>
+</tr>
 </table>
 
-<br>
-
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pradipta2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=09B4F8&icon_color=09B4F8&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pradipta2005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=09B4F8&text_color=c9d1d9"/>
-</div>
+<br/>
 
+---
 
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradipta2005&theme=tokyo-night&bg_color=0D1117&color=09B4F8&line=09B4F8&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
+## Currently Working On
 
-<br>
+```
+SQL              ████████████████░░░░  Advanced queries · window functions · real datasets
+Power BI         ██████████████░░░░░░  Building dashboards beyond tutorials
+Statistics       ████████████░░░░░░░░  Inferential stats · hypothesis testing
+Python (clean)   ████████████████░░░░  Better code habits · modular scripts
+dbt              ██████░░░░░░░░░░░░░░  Just started · learning the fundamentals
+```
 
-<div align="center">
-  <h2>🎯 What I Do</h2>
-  <p><b>From intuitive visualizations to intelligent ML models,<br>
-  I transform complex datasets into actionable business insights.</b></p>
-  
-  <a href="https://pradipta2005.github.io/Mr.-PK/">
-    <img src="https://img.shields.io/badge/🌐%20Explore%20Portfolio-FF6F00?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="https://github.com/pradipta2005?tab=repositories">
-    <img src="https://img.shields.io/badge/📂%20View%20Projects-09B4F8?style=for-the-badge&logoColor=white"/>
-  </a>
-</div>
+<br/>
 
-<br>
+---
+
+<br/>
+
+## ❯ &nbsp; GitHub Stats
+
+<br/>
 
 <div align="center">
-  <h2>🚀 Featured Project</h2>
+
+<table border="0" cellspacing="0" cellpadding="14" width="96%">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/8-Public%20Repos-4493F8?style=for-the-badge&labelColor=0d1117"/>
+<br/><br/><sub>Analytics · AI · Cloud · Apps</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/4-Project%20Domains-4493F8?style=for-the-badge&labelColor=0d1117"/>
+<br/><br/><sub>Analysis · Viz · Engineering · LLM</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/6-Core%20Tools-4493F8?style=for-the-badge&labelColor=0d1117"/>
+<br/><br/><sub>Python · SQL · Streamlit · AWS · Power BI · Excel</sub>
+</td>
+</tr>
+</table>
+
 </div>
+
+<br/>
 
 <div align="center">
-  <h3>🎨 Plotiva</h3>
-  </p>
-  <p align="center">
-    <strong>No-Code Data Visualization Platform</strong><br>
-    🔹 Drag & Drop Dataset Upload<br>
-    🔹 Interactive Chart Generation<br>
-    🔹 Smart Filtering System<br>
-    🔹 Built-in ML Models<br>
-    🔹 Zero Coding Required
-  </p>
-  <p align="center">
-    <a href="https://github.com/pradipta2005/Plotiva">
-      <img src="https://img.shields.io/badge/View%20Project-09B4F8?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradipta2005&theme=github_dark" width="32%"/>&#160;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pradipta2005&theme=github_dark" width="32%"/>&#160;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pradipta2005&theme=github_dark&utcOffset=5.5" width="32%"/>
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <h2>🏆 Achievements & Certifications</h2>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pradipta2005&theme=github_dark" width="31%"/>&#160;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradipta2005&theme=github_dark" width="66%"/>
 </div>
+
+<br/>
+
+## Looking For
+
+I'm open to **Data Analyst** roles — entry to mid-level.
+
+No professional experience yet, but I have a consistent project record, honest skill depth, and I ramp up fast. If your team needs someone who can clean data, query a database, build a dashboard, and communicate findings — that's exactly what I do.
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/TATA-Data%20Visualization-FF6B35?style=for-the-badge&logo=tata&logoColor=white"/><br>
-        <strong>Business Intelligence</strong><br>
-        <em>Forage Simulation</em>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics-86BC25?style=for-the-badge&logo=deloitte&logoColor=white"/><br>
-        <strong>Forensic Analysis</strong><br>
-        <em>Tableau & Excel Dashboards</em>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/NPTEL-Programming%20&%20Writing-FF9500?style=for-the-badge&logo=nptel&logoColor=white"/><br>
-        <strong>IIT Certification</strong><br>
-        <em>Problem Solving in C</em>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/NASA-Space%20Apps%202024-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/><br>
-        <strong>Galactic Problem Solver</strong><br>
-        <em>Global Challenge</em>
-      </td>
-    </tr>
-  </table>
+<br/>
+
+<a href="https://pradipta2005.github.io/Mr.-PK/">
+  <img src="https://img.shields.io/badge/View%20Portfolio-4493F8?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/>
+</a>&ensp;
+<a href="https://linkedin.com/in/pradipta-khan-63a796253">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&ensp;
+<a href="mailto:pradiptakhan2005@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<br/><br/>
+<sub>Open to feedback · mentorship · collaborations · opportunities</sub>
 </div>
 
-<br>
+<br/>
 
-<div align="center">
-  <h2>💭 Philosophy</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20a%20world%20full%20of%20complex%20problems,%20let%20data%20be%20your%20compass&author=-" alt="Quote"/>
-</div>
-
-<div align="center">
-  <h3>🎯 Current Focus</h3>
-  <p>
-    <img src="https://img.shields.io/badge/🔍%20Exploring-Advanced%20ML%20Algorithms-09B4F8?style=flat-square"/>
-    <img src="https://img.shields.io/badge/🚀%20Building-No%20Code%20Solutions-FF6B35?style=flat-square"/>
-    <img src="https://img.shields.io/badge/📊%20Mastering-Data%20Storytelling-86BC25?style=flat-square"/>
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>🤝 Let's Connect</h2>
-  <p>Ready to collaborate on data-driven solutions? Let's turn ideas into insights!</p>
-  
-  <a href="https://linkedin.com/in/pradipta-khan-63a796253">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-  </a>
-  <a href="https://github.com/pradipta2005">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
-  </a>
-  <a href="https://pk-golden-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6F00"/>
-  </a>
-  <a href="mailto:pradiptakhan2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-</div>
-
-<div align="center">
-  <h3>💫 "Exploring the universe, one dataset at a time" 💫</h3>
-  <p><em>Thanks for visiting! ⭐ Star some repositories if you find them interesting!</em></p>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:111827,100:0d1117&height=80&section=footer"/>
